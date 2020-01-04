@@ -12,10 +12,16 @@ It is TODO: description
 To use this program simply TODO: how it's used
 
 For MacOS or Linux:
-    i.e. python3 
+
+```shell
+python3
+```
 
 For Windows:
-    i.e. python 
+
+```powershell
+py 
+```
 
 
 
